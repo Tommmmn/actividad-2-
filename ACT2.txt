@@ -10,4 +10,8 @@ ahora el head paso a estar a la rama1
 modifico la rama1
 5) ¿Cuál es la relación entre la rama activa (la que creó), el nuevo commit creado y la referencia HEAD?
 ???
+6) ¿Cuál es ahora la rama activa indicada por HEAD?
+master
+7)¿Está presente la modificación que realizó en la rama anterior? ¿Qué demuestra esto sobre el aislamiento entre ramas?
+cada rama tiene sus propias  modificaciones
 

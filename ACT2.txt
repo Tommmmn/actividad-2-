@@ -14,4 +14,6 @@ modifico la rama1
 master
 7)¿Está presente la modificación que realizó en la rama anterior? ¿Qué demuestra esto sobre el aislamiento entre ramas?
 cada rama tiene sus propias  modificaciones
-
+8) ¿Cómo representa el gráfico la separación de la historia entre main y la rama que creó? ¿Cómo identifica la posición actual (HEAD) en este gráfico?
+los comits echos por cada rama, la posicion actual del head esta en master
+9)

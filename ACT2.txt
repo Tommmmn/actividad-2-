@@ -1,3 +1,5 @@
 1)¿Qué información proporcionan las URLs listadas para el remoto origin?
 (fetch): URL usada para descargar cambios del repositorio remoto.
 (push): URL usada para enviar tus commits al repositorio remoto.
+2) ¿Qué indica el asterisco (*) al lado del nombre de las ramas?
+indica el head

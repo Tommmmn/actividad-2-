@@ -30,3 +30,6 @@ que no se puso mergear
 ??
 14) Cómo cambió el estado del archivo después de ejecutar git add en el contexto de un conflicto resuelto?
 lo saltie
+15) ¿Cómo se visualiza en el historial la fusión completada después de resolver el conflicto? ¿Dónde se ubica HEAD tras este commit de merge?
+en la rama conflicto aparce un tipo de bifurcacion 
+el head se ubica en master

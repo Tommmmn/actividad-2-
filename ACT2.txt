@@ -28,4 +28,5 @@ CONFLICT (content): Merge conflict in ACT2.txt
 que no se puso mergear
 13) Qué versión del código representa el bloque delimitado por <<<<<<< HEAD y =======? ¿Y el bloque entre ======= y >>>>>>> <nombre_rama_conflicto>?
 ??
-
+14) Cómo cambió el estado del archivo después de ejecutar git add en el contexto de un conflicto resuelto?
+lo saltie

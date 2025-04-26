@@ -7,5 +7,5 @@ indica el head
 si se crea una nueva y el indicador sigue estando en master
 4) ¿Qué rama figura como activa ahora? ¿Qué referencia interna importante de Git cree que se actualizó para reflejar este cambio?
 ahora el head paso a estar a la rama1
-
+modifico la rama1
 

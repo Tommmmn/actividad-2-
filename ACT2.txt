@@ -16,7 +16,7 @@ master
 cada rama tiene sus propias  modificaciones
 8) ¿Cómo representa el gráfico la separación de la historia entre main y la rama que creó? ¿Cómo identifica la posición actual (HEAD) en este gráfico?
 los comits echos por cada rama, la posicion actual del head esta en master
-9)Cómo se refleja en el historial que main ahora incluye los cambios? ¿Qué indica la posición de la etiqueta main en el grafo?
+9)Cómo se refleja en el historial que main ahora incluye los cambios? ¿Qué indica la posición de la etiqueta main en el grafo
 si, se paso todo de rama 1 a master, quedo apuntando al ultimo commit 
 10)  ¿Qué efecto tuvo el comando git branch -d en la lista de ramas?
 se borro mi rama1

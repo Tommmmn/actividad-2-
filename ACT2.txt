@@ -35,3 +35,6 @@ en la rama conflicto aparce un tipo de bifurcacion
 el head se ubica en master
 16) Se sincronizó el historial remoto con los últimos cambios de su rama main local?
 si
+17)si tuviera otra rama local con commits que desea compartir o respaldar, ¿cómo la subiría al remoto origin?
+podria el head en la rama y pondria git push origin "nombre de la rama"
+
